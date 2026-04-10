@@ -2,7 +2,7 @@
 Using [Pimoroni's TinyFX](https://shop.pimoroni.com/products/tiny-fx-w?variant=53485434831227) to add red alert sound and lights to a Lego model.
 
 
-https://youtu.be/ZD6z6gK62_I
+[![TinyFX W Alert System](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FZD6z6gK62_I)](https://youtu.be/ZD6z6gK62_I)
 
 
 # Where are the cool sound effects?
