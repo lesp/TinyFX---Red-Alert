@@ -6,7 +6,8 @@ from time import sleep
 red_alert = (255,0,0)
 #yellow_alert = (255, 191, 0) Saved for future use
 #blue_alert = (0,0,255) Saved for future use, but only with USS Voyager
-off = (0,0,0)
+#brown_alert = (150, 75, 0) We hope to never need this!
+# off = (0,0,0)
 try:
     while True:
         if tiny.boot_pressed() == True:
